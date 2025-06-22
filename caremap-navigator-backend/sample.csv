@@ -1,0 +1,13 @@
+﻿name,Service,address,Phone,Website,Category,zip_code,latitude,longitude,access,public_access_hours_open,public_access_hours_close,public_access_days
+San Francisco Behavioral Health Commission,Mental Health Advocacy at Main Office,"101 Grove Street, Room 309            San Francisco, CA    94102",(628) 206-7679,http://www.sf.gov/departments/behavioral-health-commission,Health,94102,,,,,,
+San Francisco Department Of Public Health,Vital Health Records (BIRTH AND DEATH RECORDS LESS THAN 3 YEARS OLD) at 101 Grove Street Room 105,"101 Grove Street, Room 105            San Francisco, CA    94102",(415) 554-2700,http://www.sfdph.org/dph/comupg/records/vitalRec/default.asp,Health,94102,,,,,,
+San Francisco Department Of Public Health,Immunization And Testing at 101 Grove Street Room 105,"101 Grove Street, Room 105            San Francisco, CA    94102",(415) 554-2625,https://www.sf.gov/departments/department-public-health,Health,94102,,,,,,
+San Francisco Department Of Public Health,Disease Prevention And Control at 101 Grove Street Room 406,"101 Grove Street, Room 406            San Francisco, CA    94102",(415) 554-2955,http://www.sfcdcp.org/,Health,94102,,,,,,
+Front Porch,Well Connected ‚Äì Front Porch at Well Connected/Social Call,"No Physical Address.            ,",(877) 797-7299,https://frontporch.net/connect/#well-connected,Health,,,,,,,
+Curry Senior Center,Senior Center Programs at Technogy Wellness Hub,"520 Turk Street            San Francisco, CA    94102",(415) 920-1351,http://www.curryseniorcenter.org/,Health,94102,,,,,,
+Portsmouth Square Clubhouse,,745 Kearny St,,,restroom,94108,37.79502053,-122.405339,publicly_accessible,8:00:00,20:00:00,Daily
+Alioto Mini Park - Drinking Fountain,,3460 20th St,,,drinking_water,94110,37.7589939,-122.4182306,limited_access,8:00:00,20:00:00,Daily
+Garfield Children's Play Area Path,,,,,drinking_water,,37.76460916,-122.4094857,publicly_accessible,8:00:00,20:00:00,Daily
+Mission Pit Stop - 344 14th St.,,344 14th St.,,,restroom,,37.7682576,-122.4210014,publicly_accessible,,,
+Park Branch Library,,1833 Page St,,,drinking_water,94117,37.77013552,-122.4510012,limited_access,,,Daily
+Rochambeau Clubhouse,,250 25th Ave,,,restroom,94121,37.78501371,-122.4845445,publicly_accessible,8:00:00,20:00:00,Daily
